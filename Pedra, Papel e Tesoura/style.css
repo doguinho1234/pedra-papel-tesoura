@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.botao {
+    border-radius:6px;
+    padding: 15px 40px;
+    transition: background 0.5s ease;
+}
+
+.botao:hover {
+background-color: darkolivegreen;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    margin: auto;
+}
